@@ -23,4 +23,5 @@ void Bomb::undraw() const
 int Bomb::getX() const { return x; }
 int Bomb::getY() const { return y; }
 int Bomb::getW() const { return width; }
-int Bomb::getH() const { return height; }
+int Bomb::getH() const { return height; };
+//Bomb CPP
